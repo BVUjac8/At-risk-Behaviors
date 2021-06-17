@@ -29,4 +29,4 @@ No collaboration can be made on this project unless user works at Freight facili
 ### FAQs
 ***
 1. **Why is this data analysis of at-risk behaviors at the company UPS important to perform?**
-_Due to UPS's main concern for safety first, a data analysis for determining which shift and which employee (under or over a year of employment) is the most at-risk, thus, correcting the behavior and lessening the potential accidents or fatalities that could occur from various job functions.
+_Due to UPS's main concern for safety first, a data analysis for determining which shift and which employee (under or over a year of employment) is the most at-risk, thus, correcting the behavior and lessening the potential accidents or fatalities that could occur from various job functions._
