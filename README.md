@@ -18,7 +18,7 @@ In the month of July 2020, 158 observations of at-risk behaviors were made by UP
 * [Pycharm](https://www.jetbrains.com/pycharm/): Most recent version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
 * [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
-* [Microsoft Word](https://www.microsoft.com/en-us/): Any version)
+* [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
 ***
